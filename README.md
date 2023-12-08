@@ -16,7 +16,7 @@
 </div> 
 
 <div style="display: inline_block"><br>
-  <h4>Technologies tha I'm learning:</h4>
+  <h4>Technologies that I'm learning:</h4>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
 
