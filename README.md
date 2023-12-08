@@ -1,7 +1,7 @@
 # 👋 Hello There! 
 👋 Hi, I'm Marcos Amelio Merlini. <br>
 🔭 Working as a full-stack developer. <br>
-🌱 Currently I'm learning about game development. <br>
+🌱 Currently I'm learning about game development. <br><br>
 
 <div align="center">
   <a href="https://github.com/imarcosmerlini">
