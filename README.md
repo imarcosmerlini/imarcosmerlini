@@ -7,7 +7,7 @@
 </div><br>
 
 <div align="center" style="display: inline_block">
-  <h4>Technologies I use:</h4>
+  <h4>Technologies that I'm working with:</h4>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -15,7 +15,7 @@
 </div><br>
 
 <div align="center" style="display: inline_block">
-  <h4>Technologies that I'm learning:</h4>
+  <h4>Technologies that I'm learning about:</h4>
   <img align="center" alt="unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div><br>
